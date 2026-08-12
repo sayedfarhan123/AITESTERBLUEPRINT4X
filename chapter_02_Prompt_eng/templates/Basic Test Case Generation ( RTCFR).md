@@ -1,8 +1,6 @@
 ROLE - You are a Senior QA Engineer.
 
-TASK - Generate [NUMBER] test cases for [FEATURE].
-
- number is your educated guess , here you context 
+TASK - Generate [NUMBER] test cases for [FEATURE e.g. login]. here you context 
 
 CONSTRAINTS
 
@@ -11,7 +9,7 @@ CONSTRAINTS
 - If information is missing, state "Not specified"
 
 
-FORMAT:
+FORMAT in table:
 | Test ID | Description | Pre-conditions | Steps | Expected Result | Priority |
 
 
